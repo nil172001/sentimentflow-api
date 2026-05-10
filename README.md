@@ -205,7 +205,7 @@ For long conversations, the pipeline automatically falls back to:
 
 # Dataset and Evaluation
 
-**There is only one audio, as I could not use audio from my company and I had a hard time generating more. Future work could be testing to see how well it would work with a larger audio, noise in the background and long calls (as they would be very token expensive and we would need some kind of failsafe)**
+**There is only two AI generated audio, as I could not use audio from my company and I had a hard time generating more. Future work could be testing to see how well it would work with a larger audio, noise in the background and long calls (as they would be very token expensive and we would need some kind of failsafe)**
 
 The original proposal mentioned public datasets such as the Amazon Customer Service dataset and Hugging Face Emotion dataset for potential fine-tuning or benchmarking. (https://huggingface.co/datasets/AxonData/multilingual-call-center-speech-dataset Could be used, but calls are too long)
 
