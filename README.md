@@ -423,11 +423,7 @@ Potential extensions:
 
 Nil Mataró i Llobet
 
-Developed as part of the DTU AI/LLM course project focused on:
-
-* Natural Language Processing
-* Large Language Models
-* Privacy-Aware AI Systems
+Developed as part of the DTU AI/LLM course project focused on Natural Language Processing
 
 ```
 ```
