@@ -1,0 +1,53 @@
+#Copy paste in analyze converstion to test (generated with chatgpt to mimic a customer call)
+
+{
+  "text": "Hello, thank you for calling customer support. How can I help you today? My name is Nil, I live in Sabadell and my ID number is 33222334. I am calling because my order is three days late and nobody told me why. I am really frustrated. I understand your concern and I sincerely apologize for the delay. Let me check the status of your order. Okay, I see the issue now and I can offer you a full refund and express shipping. Thank you, that helps a lot. I appreciate your help."
+}
+
+TEST 1 — SIMPLE CUSTOMER ISSUE
+
+{
+  "text": "Hello, thank you for calling customer support. How can I help you today? Hi, my order is three days late and nobody told me why. I am honestly very frustrated. I sincerely apologize for the delay. Let me check your order status. Okay, I see the issue now. I can offer you express shipping and a partial refund. Thank you, that helps a lot. I appreciate your help."
+}
+
+TEST 2 — PRIVACY FILTER TEST
+
+{
+  "text": "Hello, thank you for calling support. Hi, my name is Daniel. My email is daniel@gmail.com and I live in Copenhagen. My phone number is +45 12345678. I understand. Let me remove your personal information from the system."
+}
+
+TEST 3 — ANGRY CUSTOMER
+
+{
+  "text": "Thank you for calling customer support. I am extremely angry. I have called three times already and nobody solved my issue. I understand your frustration and I sincerely apologize. No, this is unacceptable. I want to speak to a manager immediately. I will escalate your case right now."
+}
+
+TEST 4 — HAPPY RESOLUTION
+
+{
+  "text": "Hello, how may I help you today? Hi, I was charged twice for my subscription. I see the issue. I have refunded the duplicate payment. Oh wow, thank you so much. That was incredibly fast. You are welcome. Have a wonderful day."
+}
+
+TEST 5 — MIXED EMOTIONS
+
+{
+  "text": "Hello and thank you for calling support. Hi, I am a bit confused about my invoice. Of course. Let me explain the charges for you. Okay, that makes more sense now. I also added a discount because of the confusion. That is very kind of you. Thank you."
+}
+
+TEST 6 — FEARFUL CUSTOMER
+
+{
+  "text": "Hello, how can I help you today? Hi, I think someone accessed my account. I am really worried. I understand your concern. We will secure your account immediately. Can you also reset my password? Absolutely. I already sent you a secure reset link."
+}
+
+TEST 7 — SURPRISED CUSTOMER
+
+{
+  "text": "Hello and thank you for calling customer support. Hi, I received a free upgrade on my account today. I was honestly surprised. Yes, your loyalty status qualified you automatically. Wow, that is amazing. Thank you very much."
+}
+
+TEST 8 — LONGER CONVERSATION
+
+{
+  "text": "Hello, thank you for calling support. How can I help you today? Hi, my internet service has been disconnecting every evening this week. I am sorry to hear that. Let me run a quick diagnostic. Okay. I can see instability in your router connection. We may need to replace the device. That explains a lot actually. I can ship a replacement router tomorrow morning at no cost. Really? Thank you so much. You are welcome. Is there anything else I can help you with today? No, that solved everything. Thank you again."
+}
